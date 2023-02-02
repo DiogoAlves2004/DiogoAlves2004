@@ -17,8 +17,6 @@
 </div>
 </div>
 
-![Snake animation](https://github.com/DiogoAlves2004/DiogoAlves2004/blob/output/github-contribution-grid-snake.svg)
-
 <h1>Meus conhecimentos</h1>
  
 <h2>Backend</h2>
