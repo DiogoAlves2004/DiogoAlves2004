@@ -3,10 +3,10 @@
 
 
 
-- 🔭  Atualmente estou proucurando minha primeira vaga com desenvolvedor front end
+- 🔭  Atualmente estou proucurando minha primeira vaga com desenvolvedor front end, e a sua empresa será a primeira em que eu trabalharei 
 - 🌱  Como estou no inicio da minha carreira atualmente meu foco e maior no front end, porem ja possuo noçoes de back end, principalmente em PHP
-- 📫  Olha se quiser falar comigo pode entrar em contato com meu email alvessilva524@gmail.com
-- ⚡  Nesse perfil voce vai encontrar alguns projetos pessoais, sao apenas para estudo mas deu meu melhor em cada um deles, sou aberto a criticas construtivas caso deseje dar sua opnião
+- 📫  Olha se quiser falar comigo pode entrar em contato por esse email alvessilva524@gmail.com, abaixo você encontra o link direto pra ele
+- ⚡  Nesse perfil voce vai encontrar alguns projetos pessoais, sao apenas para estudo mas dei meu melhor em cada um deles, sou aberto a criticas construtivas caso deseje dar sua opnião
 
  <div styles="display:flex;">
 
