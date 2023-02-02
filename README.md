@@ -15,13 +15,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoAlves2004&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoAlves2004&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-![Snake animation](https://github.com/DiogoAlves2004/DiogoAlves2004/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
-
-
+![Snake animation](https://github.com/DiogoAlves2004/DiogoAlves2004/blob/output/github-contribution-grid-snake.svg)
 
 <h1>Meus conhecimentos</h1>
  
