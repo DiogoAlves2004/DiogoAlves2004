@@ -1,8 +1,6 @@
 # Diogo
 ## Hello, Devs!!
 
-<!--
-**DiogoAlves2004/DiogoAlves2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 # Atualmente estou proucurando minha primeira vaga com desenvolvedor front end
