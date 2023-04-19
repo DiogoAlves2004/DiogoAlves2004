@@ -18,7 +18,7 @@
 
 <h1>Meus conhecimentos</h1>
  
-<h2>Backend</h2>
+<h2>Frontend</h2>
  
  <div styles="display:flex;">
   
