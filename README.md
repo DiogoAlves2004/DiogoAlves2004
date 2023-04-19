@@ -39,7 +39,7 @@
 <div styles="display:flex;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  width="100px" height="100px" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="100px" height="100px" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="100px" height="100px" />
+ <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png"  width="100px" height="100px" />
  <img src="https://img.icons8.com/color/512/nodejs.png"  width="100px" height="100px" />
 </div>
 
