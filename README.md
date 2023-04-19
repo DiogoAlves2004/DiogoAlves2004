@@ -5,7 +5,7 @@
 
 
 - 🔭  Atualmente estou proucurando minha primeira vaga com desenvolvedor front end, e a sua empresa será a primeira em que eu trabalharei 
-- 🌱  Como estou no inicio da minha carreira atualmente meu foco e maior no front end, porem ja possuo noçoes de back end, principalmente em PHP
+- 🌱  Como estou no inicio da minha carreira atualmente meu foco e maior no front end, porem ja possuo noçoes de back end, principalmente em PHP, node.js, e C#
 - 📫  Olha se quiser falar comigo pode entrar em contato por esse email alvessilva524@gmail.com, abaixo você encontra o link direto pra ele
 - ⚡  Nesse perfil voce vai encontrar alguns projetos pessoais, sao apenas para estudo mas dei meu melhor em cada um deles, sou aberto a criticas construtivas caso deseje dar sua opnião
 
@@ -39,6 +39,8 @@
 <div styles="display:flex;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  width="100px" height="100px" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="100px" height="100px" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="100px" height="100px" />
+ <img src="https://img.icons8.com/color/512/nodejs.png"  width="100px" height="100px" />
 </div>
 
 
