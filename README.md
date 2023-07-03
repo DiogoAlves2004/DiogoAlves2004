@@ -15,32 +15,6 @@
 </div>
 </div>
 
-<h1>Meus conhecimentos</h1>
- 
-<h2>Frontend</h2>
- 
- <div styles="display:flex;">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="100px" height="100px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"  width="100px" height="100px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  width="100px" height="100px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"  width="100px" height="100px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"  width="100px" height="100px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"  width="100px" height="100px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="100px" height="100px" />
-</div>
-
-
-<h2>Backend</h2>
-
-<div styles="display:flex;">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"  width="100px" height="100px" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  width="100px" height="100px" />
- <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png"  width="100px" height="100px" />
- <img src="https://img.icons8.com/color/512/nodejs.png"  width="100px" height="100px" />
-</div>
-
-
 # Contatos:
 
 <div styles="display:flex; align-itens:center;">
