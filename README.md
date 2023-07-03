@@ -1,5 +1,5 @@
 # <h1 styles="color: blue;"> Hello, Devs!! </h1>
-## Meu portfólio: https://diogoalves.netlify.app/
+## Meu portfólio: https://diogoalves.vercel.app/
 
 
 - 🔭  Atualmente estou proucurando minha primeira vaga como dev.
