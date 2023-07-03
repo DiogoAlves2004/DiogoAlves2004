@@ -1,4 +1,4 @@
-# <h1 style="color: darkblue;"> Hello, Devs!! </h1>
+# <h1 styles="color: blue;"> Hello, Devs!! </h1>
 ## Meu portfólio: https://diogoalves.netlify.app/
 
 
