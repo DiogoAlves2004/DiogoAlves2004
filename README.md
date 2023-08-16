@@ -2,7 +2,6 @@
 ## Meu portfólio: https://diogoalves.vercel.app/
 
 
-- 🔭  Atualmente estou proucurando minha primeira vaga como dev.
 - 📫  Olha se quiser falar comigo pode entrar em contato por esse email alvessilva524@gmail.com, abaixo você encontra o link direto pra ele
 - ⚡  Nesse perfil voce vai encontrar alguns projetos pessoais, sao apenas para estudo mas dei meu melhor em cada um deles, sou aberto a criticas construtivas caso deseje dar sua opnião
 
