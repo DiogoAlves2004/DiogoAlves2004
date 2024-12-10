@@ -1,8 +1,7 @@
 ## Meu portfólio: https://diogoalves.vercel.app/
 
 
-- 📫  Olha se quiser falar comigo pode entrar em contato por esse email alvessilva524@gmail.com, abaixo você encontra o link direto pra ele
-- ⚡  Nesse perfil voce vai encontrar alguns projetos pessoais, sao apenas para estudo mas dei meu melhor em cada um deles, sou aberto a criticas construtivas caso deseje dar sua opnião
+Currently, I work with analysis and development of web systems using .NET, Angular, DDD and layered architecture. I have skills in databases with emphasis on PostgreSQL and Redis. In mobile, I have programmed in ReactNative. My biggest specialties are .NET Microservices and Angular microfrontend with MFE.
 
  <div styles="display:flex;">
 
