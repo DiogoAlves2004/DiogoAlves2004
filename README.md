@@ -1,4 +1,3 @@
-## Meu portfólio: https://diogoalves.vercel.app/
 
 
 Currently, I work with analysis and development of web systems using .NET, Angular, DDD and layered architecture. I have skills in databases with emphasis on PostgreSQL and Redis. In mobile, I have programmed in ReactNative. My biggest specialties are .NET Microservices and Angular microfrontend with MFE.
